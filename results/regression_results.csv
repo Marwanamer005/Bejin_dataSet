@@ -1,0 +1,7 @@
+,MAE,MAE,R2,R2,RMSE,RMSE
+split,test,train,test,train,test,train
+model,,,,,,
+Baseline (previous hour),11.824,12.955,0.945,0.927,21.913,24.649
+Linear Regression,12.585,13.344,0.944,0.932,22.138,23.836
+SVR linear,11.644,12.65,0.95,0.936,20.899,23.076
+SVR RBF,11.302,12.081,0.952,0.938,20.52,22.707
